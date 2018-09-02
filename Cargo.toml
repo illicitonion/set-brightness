@@ -1,0 +1,6 @@
+[package]
+name = "set-brightness"
+version = "0.1.0"
+authors = ["Daniel Wagner-Hall <dawagner@gmail.com>"]
+
+[dependencies]
